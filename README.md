@@ -37,7 +37,7 @@ The system includes multiple tables to manage components, modules, products, inv
 - Use `SELECT * FROM Orders;` to check inserted test data.
 
 ## 📊 Database Schema Diagram
-![Schema Diagram](docs/schema_diagram.png)
+![Schema Diagram]([https://github.com/Priyanka-L-K/Supply_Chain_Management_using_PL-SQL/blob/main/SCM_Table_Schema.png])
 
 ## 📝 License
 This project is licensed under the MIT License.
